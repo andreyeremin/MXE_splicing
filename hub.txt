@@ -1,5 +1,5 @@
-hub MXE splicing
-shortLabel mxe_splicing
-longLabel MXE splicing via RNA structures
+hub MXE_splicing
+shortLabel MXE_splicing
+longLabel MXE_splicing 
 genomesFile genomes.txt
 email andreyeremin9903@gmail.com
