@@ -1,0 +1,7 @@
+track trackName
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl track_CACNA1.bb
+shortLabel shortTrackName
+longLabel longTrackName
