@@ -1,0 +1,5 @@
+hub MXE splicing 
+shortLabel mxe_splicing
+longLabel MXE splicing via RNA structures
+genomesFile genomes.txt
+email andreyeremin9903@gmail.com
