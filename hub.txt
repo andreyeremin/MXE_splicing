@@ -1,4 +1,4 @@
-hub MXE splicing 
+hub MXE splicing
 shortLabel mxe_splicing
 longLabel MXE splicing via RNA structures
 genomesFile genomes.txt
