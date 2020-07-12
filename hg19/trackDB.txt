@@ -1,34 +1,34 @@
-track CACNA1A_cluster
+track CACNA1A_all
 type bigBed 12 +
 exonArrows on
 exonNumbers on
-bigDataUrl CACNA1A_cluster.bb
-shortLabel all_panhandles
+bigDataUrl CACNA1A_all.bb
+shortLabel CACNA1A_all
 longLabel all_panhandles_in_cluster
 
 
-track CACNA1B_cluster
+track CACNA1B_all
 type bigBed 12 +
 exonArrows on
 exonNumbers on
-bigDataUrl CACNA1B_cluster.bb
-shortLabel all_panhandles
+bigDataUrl CACNA1B_all.bb
+shortLabel CACNA1B_all
 longLabel all_panhandles_in_cluster
 
 
-track CACNA1C_cluster
+track CACNA1C_all
 type bigBed 12 +
 exonArrows on
 exonNumbers on
-bigDataUrl CACNA1C_cluster.bb
-shortLabel all_panhandles
+bigDataUrl CACNA1C_all.bb
+shortLabel CACNA1C_all
 longLabel all_panhandles_in_cluster
 
 
-track CACNA1D_cluster
+track CACNA1D_all
 type bigBed 12 +
 exonArrows on
 exonNumbers on
-bigDataUrl CACNA1D_cluster.bb
-shortLabel all_panhandles
+bigDataUrl CACNA1D_all.bb
+shortLabel CACNA1D_all
 longLabel all_panhandles_in_cluster
