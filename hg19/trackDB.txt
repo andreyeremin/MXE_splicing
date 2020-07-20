@@ -1,34 +1,48 @@
-track CACNA1A_all
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl CACNA1A_all.bb
-shortLabel CACNA1A_all
+track SCN_8A_9A_3A_2A_all_panhandles
+type bigBed 12 + 
+exonArrows on 
+exonNumbers on 
+bigDataUrl SCN_8A_9A_3A_2A_all_panhandles.bb
+shortLabel SCN_8A_9A_3A_2A_al
 longLabel all_panhandles_in_cluster
 
-
-track CACNA1B_all
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl CACNA1B_all.bb
-shortLabel CACNA1B_all
+track CACNA1_C_D_mxe_homologs
+type bigBed 12 + 
+exonArrows on 
+exonNumbers on 
+bigDataUrl CACNA1_C_D_mxe_homologs.bb
+shortLabel CACNA1_C_D_
 longLabel all_panhandles_in_cluster
 
-
-track CACNA1C_all
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl CACNA1C_all.bb
-shortLabel CACNA1C_all
+track CACNA1_A_B_mxe_homologs
+type bigBed 12 + 
+exonArrows on 
+exonNumbers on 
+bigDataUrl CACNA1_A_B_mxe_homologs.bb
+shortLabel CACNA1_A_B_
 longLabel all_panhandles_in_cluster
 
-
-track CACNA1D_all
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl CACNA1D_all.bb
-shortLabel CACNA1D_all
+track CACNA_1_ABCD_all_panhandles
+type bigBed 12 + 
+exonArrows on 
+exonNumbers on 
+bigDataUrl CACNA_1_ABCD_all_panhandles.bb
+shortLabel CACNA_1_ABCD_al
 longLabel all_panhandles_in_cluster
+
+track SCN_8A_9A_mxe_homologs
+type bigBed 12 + 
+exonArrows on 
+exonNumbers on 
+bigDataUrl SCN_8A_9A_mxe_homologs.bb
+shortLabel SCN_8A_9A_
+longLabel all_panhandles_in_cluster
+
+track SCN_2A_3A_mxe_homologs
+type bigBed 12 + 
+exonArrows on 
+exonNumbers on 
+bigDataUrl SCN_2A_3A_mxe_homologs.bb
+shortLabel SCN_2A_3A_
+longLabel all_panhandles_in_cluster
+
